@@ -31,6 +31,16 @@ Further services are offered within the club detail page: an event calendar for 
   * Firebase: [https://github.com/firebase/firebase-ios-sdk]
   * Calendar: [https://github.com/mszpro/Selectable-Calendar-View] (The calendar function was not made by the Timeline team and full credits go to mszpro for the base code of this calendar)
 
+### Firebase
+
+* Create new firebase project here: [https://console.firebase.google.com/]
+* Lauch Timeline from Xcode and double click the Timeline file within Xcode
+* Go to Signing & Capabilities and copy the bundle identifier
+* Go back to Firebase and add an IOS application
+* Register the app using the bundle ID you just copied
+* Download the info.plist and add it to Timeline files
+* You can now work with all capabiities of Firebase and are connected to the Firebase servers
+
 ### Executing program (XCode)
 
 * After downloading the program files and XCode, open the Timeline *xcode.projec* file
