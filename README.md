@@ -51,6 +51,7 @@ Further services are offered within the club detail page: an event calendar for 
 ## Help
 The program takes a while to load, approximately 5 - 20 seconds. If it doesn't run by then, check for any breakpoints: use the debug tab on the very top to deactivate any breakpoints.
 
+For help with system images, find them here: [https://github.com/cyanzhong/sf-symbols-online], full credits to cyanzhong.
 For further help, [you can contact us.](https://classroom.google.com/c/MzIwMDI3NTU5NzIz)
 
 ## Authors
